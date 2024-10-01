@@ -1,2 +1,2 @@
-# tas-kagit-makas
-my project
+tas-kagit-makas
+
